@@ -8,3 +8,7 @@ __pycache__/
 .DS_Store
 Miniconda3-latest-MacOSX-arm64.sh
 *.sh
+*.sqlite3
+chroma/
+*.bin
+todo.txt
